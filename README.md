@@ -26,10 +26,10 @@ FIND YOUR GROUP, <STRONG> FOR EACH GROUP MEMBER </STRONG> ENTER YOUR NAME, YOUR 
 <p>let evanGame = {gameName = "Meh Game", gameURL: "https://mrspartan38.github.io/dev-david-hw/", gameAuthor = "Evan Sager"}</p>
 
 <H4> GROUP 4 </H4>
-<p>Jodi Gambrell, Circle Game, https://jomlli709.github.io/octo-goggles-david-hw/;</p>
-<p>Noah Brown, Shooting Star, https://nbrown2002.github.io/Dev-David/;</p>
-<p>Whit Brewer, UFO Game, https://whitb43.github.io/UFO-Escape/;</p>
-<p>Shun Sasaki, Battery Charger Game, https://ssasaki1.github.io/dev-david-lab/;</p>
+<pjodiGame = {gameName: "Circle Game", gameURL: "https://jomlli709.github.io/octo-goggles-david-hw/", gameAuthor: "Jodi Gambrell"};</p>
+<p>noahGame = {gameName: "Shooting Star", gameURL: "https://nbrown2002.github.io/Dev-David/", gameAuthor: "Noah Brown"};</p>
+<p>whitGame = {gameName: "UFO Game", gameURL: "https://whitb43.github.io/UFO-Escape/", gameAuthor: "Whit Brewer"};</p>
+<p>shunGame = {gameName: "Battery Charger Game", gameURL: "https://ssasaki1.github.io/dev-david-lab/", gameAuthor: "Shun Sasaki";</p>
 
 <H4> GROUP 5 </H4>
 
