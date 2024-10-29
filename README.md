@@ -12,7 +12,9 @@ FIND YOUR GROUP, <STRONG> FOR EACH GROUP MEMBER </STRONG> ENTER YOUR NAME, YOUR 
 <p> millyGame = {gameName: "The Emoji Game", gameURL: "https://mtrejo03.github.io/dev-david-hw/", gameAuthor: "Milly Trejo"}; </p>
 
 <H4> GROUP 2 </H4>
-<p> JanetGame = {gameName: "Futbol Mania", gameURL: "https://jm-2017.github.io/urban-carnival-nuExample/", gameAuthor: "Janet Martinez"}; </p>
+<p> JanetGame = {gameName: "Futbol Mania", gameURL: "https://jm-2017.github.io/urban-carnival-nuExample/", gameAuthor: "Janet Martinez"};
+repo : https://github.com/jm-2017/urban-carnival-nuExample
+</p>
 
 <p> SeanGame = {gameName: "Slides", gameURL: "https://basstbone.github.io/dev-david-hw/", gameAuthor: "Sean Oliver"};</p>
 
