@@ -39,6 +39,7 @@ repo : https://github.com/jm-2017/urban-carnival-nuExample
 <H4> GROUP 6 </H4>
 <p>kethanGame = {gameName: "Rock-Paper-Scissors", gameURL: "https://kethanpilla.github.io/dev-freddie-hw/", gameAuthor: "Kethan Pilla"};</p>
 <p> ParidhiGame = {gameName: "Wow Game", gameURL: "https://pmalhotra21.github.io/wow-game/", gameAuthor: "Paridhi Malhotra"}; </p>
+<p> wowGame = {gameName: "WOW Game!", gameURL: "https://jonathan-hall34.github.io/scaling-pancake-dev-david-game/", gameAuthor: "Jonathan Hall"};</p>
 
 
 <H4> GROUP 7 </H4>
