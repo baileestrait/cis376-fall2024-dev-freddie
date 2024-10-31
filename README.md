@@ -40,6 +40,7 @@ repo : https://github.com/jm-2017/urban-carnival-nuExample
 <p>kethanGame = {gameName: "Rock-Paper-Scissors", gameURL: "https://kethanpilla.github.io/dev-freddie-hw/", gameAuthor: "Kethan Pilla"};</p>
 <p> ParidhiGame = {gameName: "Wow Game", gameURL: "https://pmalhotra21.github.io/wow-game/", gameAuthor: "Paridhi Malhotra"}; </p>
 
+
 <H4> GROUP 7 </H4>
 <p>Name:Allison Lacy Game Name:Square Game URL: </p>
 <a href="https://allisonlacy.github.io/alligamerepo/">My Game</a>
